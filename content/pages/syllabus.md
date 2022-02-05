@@ -48,15 +48,86 @@ Walden Asset Management, Boston, MA
 Session Overview
 ----------------
 
-| SESSION | TOPICS |
-| --- | --- |
-| Two hour session | Introduction |
-| Session 1 | The IDEO Process of Innovation, IDEO TEAM |
-| Session 2 | All-day visits to Ben & Jerry's, KLD, Plug Power, PwC, UN Global Compact, Schlumberger SEED |
-| Session 3 | Sense-making  {{< br >}}Guest presenter: J. Rinkevich (MBDC) |
-| Session 4 | Dinner party & dialogue with J. Jaworski (Global Institute for Responsible Leadership, Generon) |
-| Session 5 | Project Formation  {{< br >}}Guest: J. Hockenstein, (Digital Divide Data) |
-| Four hour session | Project review, synthesizing key lessons of the Lab 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SESSION
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two hour session
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Session 1
+{{< tdclose >}}
+{{< tdopen >}}
+The IDEO Process of Innovation, IDEO TEAM
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Session 2
+{{< tdclose >}}
+{{< tdopen >}}
+All-day visits to Ben & Jerry's, KLD, Plug Power, PwC, UN Global Compact, Schlumberger SEED
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Session 3
+{{< tdclose >}}
+{{< tdopen >}}
+Sense-making  
+Guest presenter: J. Rinkevich (MBDC)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Session 4
+{{< tdclose >}}
+{{< tdopen >}}
+Dinner party & dialogue with J. Jaworski (Global Institute for Responsible Leadership, Generon)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Session 5
+{{< tdclose >}}
+{{< tdopen >}}
+Project Formation  
+Guest: J. Hockenstein, (Digital Divide Data)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four hour session
+{{< tdclose >}}
+{{< tdopen >}}
+Project review, synthesizing key lessons of the Lab
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Specific Course Objectives
 --------------------------
